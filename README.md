@@ -1,5 +1,5 @@
-# 3D-Surface-Contact
-## A pipeline to model the 3D frictional surface contact
+# Non-Planar-Surface-Contacts
+## An algorithm to model the non-planar frictional surface contacts
 
 ## 1. Surface contact generation, including:
 - parametric surfaces
@@ -18,7 +18,7 @@
     - ANSYS workbench: https://www.ansys.com/
     
 
-## 2. 6D friction computation for non-planar (3D) surfaces
+## 2. 6D friction computation for non-planar surfaces
 - for parametric surfaces: Numerical integrated wrenches with symbolic integrands
 - for meshed surfaces: Sum of the wrench of all elements
 - **Code**
