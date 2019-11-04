@@ -3,11 +3,12 @@
 
 % write the absolute path of this package, because ANSYS requires an
 % absolute path
-PACKAGE_ROOT = '/home/xxx/xxx/xxx/3d-surface-contact/';
+% PACKAGE_ROOT = '/home/xxx/xxx/xxx/3d-surface-contact/';
+PACKAGE_ROOT = pwd; 
 % A struct CONSTS constists of constants for:
 % GRASP, CONTACT, DEBUG, GEOMETRY, MATERIAL
 
-% setelct the finger for simulation
+% setelct a finger type for simulation
 % loadconstantsFingerBeam; 
 loadconstantsFingerEllipsoid; % setup ANSYS directory in the config file
 addpackagespaths(PACKAGE_ROOT);

@@ -14,6 +14,7 @@
 - Create NURBS-based objects
     - MATLAB NURBS Toolbox: https://de.mathworks.com/matlabcentral/fileexchange/26390-nurbs-toolbox-by-d-m-spink
     - MATLAB IGES Toolbox: https://de.mathworks.com/matlabcentral/fileexchange/13253-iges-toolbox
+    - MATLAB IGES OUTPUT Function: https://de.mathworks.com/matlabcentral/fileexchange/14470-igesout
 - FEM simulation
     - ANSYS workbench: https://www.ansys.com/
     
